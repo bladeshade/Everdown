@@ -1,0 +1,7 @@
+Procedure to consider
+1. Copying links from youtube or other mentioned sites.
+2. Pasting all links at once.
+3. Running a code to push the link to clipconverter.
+4. A input asking of filetype required (.mp3, .mp4, .3gp etc).
+5. After conversion use wget to download the file.
+6. Copy and paste the downloaded file to required destination folder.
